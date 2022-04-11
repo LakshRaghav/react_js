@@ -1,0 +1,28 @@
+{
+    "employee":[
+        {
+            "id":1,
+            "name":"rahul",
+            "age":23,
+            "address":"nawada"
+        },
+        {
+            "id":2,
+            "name":"Tushar",
+            "age":5,
+            "address":"Nawada"
+        },
+        {
+            "id":3,
+            "name":"Lakshay",
+            "age":20,
+            "address":"Mahavir Enclave"
+        },
+        {
+            "id":4,
+            "name":"kartik",
+            "age":20,
+            "address":"Sagar pur"   
+        }
+    ]
+}
